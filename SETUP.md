@@ -21,24 +21,10 @@ This guide will walk you through connecting your project to GitHub and deploying
 
 ### Step 2: Connect Your Local Repository
 
-Run these commands in your terminal (from the project root):
-
-```bash
-# Add all files to git
-git add .
-
-# Create your first commit
-git commit -m "chore: initial project setup"
-
-# Add your GitHub repository as remote (replace YOUR_USERNAME and REPO_NAME)
-git remote add origin https://github.com/YOUR_USERNAME/REPO_NAME.git
-
-# Push to GitHub
-git branch -M main
-git push -u origin main
-```
-
-**Note:** Replace `YOUR_USERNAME` and `REPO_NAME` with your actual GitHub username and repository name.
+✅ **Already done!** Your repository is connected to:
+- **Repository:** [moredemanduk/comms](https://github.com/moredemanduk/comms.git)
+- **Remote:** `git@github.com:moredemanduk/comms.git`
+- **Branch:** `main` (pushed and tracking)
 
 ---
 
